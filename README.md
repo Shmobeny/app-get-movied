@@ -12,4 +12,4 @@ This app will help you to discover new titles in a fun way: you need to match th
 - **watchlist:** users can login via MovieDB and use watchlist feature across their devices.
 - **Installable:** app can be installed like PWA on any supported device (passed all tests in Lighthouse).
 
-![APP Screenshot](https://raw.githubusercontent.com/Shmobeny/app-get-movied/public/assets/img/screenshots/Screenshot_1.jpg "Screenshot of main page :)")
+![APP Screenshot](https://raw.githubusercontent.com/Shmobeny/app-get-movied/main/public/assets/img/screenshots/Screenshot_1.jpg "Screenshot of main page :)")
