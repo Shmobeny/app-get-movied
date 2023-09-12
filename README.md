@@ -3,7 +3,7 @@ This app will help you to discover new titles in a fun way: you need to match th
 
 🎬🍿 **[OPEN APP](https://get-movied.surge.sh/ "Run app in your browser right now!")** 🍿🎬
 
-![qrcode](https://raw.githubusercontent.com/Shmobeny/game-bubble-popper/main/qrcode_get-movied.surge.sh.png "Try app on your phone ;)")
+![qrcode](https://raw.githubusercontent.com/Shmobeny/app-get-movied/main/qrcode_get-movied.surge.sh.png "Try app on your phone ;)")
 
 ## Features
 - **simple & addictive concept:** this app will fill your watchlist in a minutes.
