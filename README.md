@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Get Movied: Discover new movies
+This app will help you to discover new titles in a fun way: you need to match the description and one of the proposed movies.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+🎬🍿 **[OPEN APP](https://get-movied.surge.sh/ "Run app in your browser right now!")** 🍿🎬
 
-## Recommended IDE Setup
+![qrcode](https://raw.githubusercontent.com/Shmobeny/app-get-movied/main/qrcode.png "Try app on your phone ;)")
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Features
+- **simple & addictive concept:** this app will fill your watchlist in a minutes.
+- **flexible setup:** users can adjust search setting to fit their preferences: release year, included actors, included genres.
+- **multilingual:** app support English, Ukrainian and russian languages, but content can be translated to even more languages, using implemented translator.
+- **watchlist:** users can login via MovieDB and use watchlist feature across their devices.
+- **Installable:** app can be installed like PWA on any supported device (passed all tests in Lighthouse).
+
+![APP Screenshot](https://raw.githubusercontent.com/Shmobeny/app-get-movied/main/gameplay_screenshot.png "Screenshot of main page :)")
